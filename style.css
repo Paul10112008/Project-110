@@ -1,0 +1,38 @@
+body {
+    color: white;
+    background-color: rgb(134, 32, 152);
+  }
+span {
+    font-size: 30px;
+}
+#camera , #result {
+    border: 2px dashed white;
+    width: 350px;
+    height: 300px;
+}
+.object_name
+{
+    font-size: 40px;
+}
+.gesture_icon
+{
+    font-size:48px;
+}
+.heading
+{
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+}
+label
+{
+    font-size: 14px;
+    color: #62b33a
+}
+h3  {
+    font-size: medium;
+}
+p  {
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+}
